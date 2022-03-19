@@ -284,7 +284,7 @@ h1 {
 }
 
 /* line 61, ../sass/global.sass */
-a {
+/* a {
   color: #7c689b;
   cursor: pointer;
   text-decoration: none;
@@ -293,7 +293,7 @@ a {
   -ms-transition: color 0.2s;
   -o-transition: color 0.2s;
   transition: color 0.2s;
-}
+} */
 
 /* line 66, ../sass/global.sass */
 p {
@@ -860,10 +860,10 @@ textarea {
   box-sizing: border-box;
 }
 /* line 29, ../sass/mixins.sass */
-textarea::-webkit-input-placeholder {
+/* textarea::-webkit-input-placeholder {
   font-weight: normal;
   font-size: 16px;
-}
+} */
 /* line 31, ../sass/mixins.sass */
 textarea:-moz-placeholder {
   font-weight: normal;
@@ -897,9 +897,9 @@ input {
   font-size: 16px;
 }
 /* line 29, ../sass/mixins.sass */
-input::-webkit-input-placeholder {
+/* input::-webkit-input-placeholder {
   font-weight: normal;
-}
+} */
 /* line 31, ../sass/mixins.sass */
 input:-moz-placeholder {
   font-weight: normal;
@@ -918,9 +918,9 @@ input:focus {
 }
 
 /* line 29, ../sass/mixins.sass */
-.input-title::-webkit-input-placeholder {
+/* .input-title::-webkit-input-placeholder {
   font-weight: bold;
-}
+} */
 /* line 31, ../sass/mixins.sass */
 .input-title:-moz-placeholder {
   font-weight: bold;
